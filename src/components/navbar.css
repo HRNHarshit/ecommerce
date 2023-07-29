@@ -1,0 +1,32 @@
+.navbar {
+    width: 100%;
+    height: 60px;
+    background-color: rgb(19, 19, 19);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.hd {
+    color: black;
+}
+
+.links,
+.links a,
+.shoping-cart {
+    background: rgb(19, 19, 19);
+}
+
+.links {
+    margin-right: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.links a {
+    text-decoration: none;
+    color: wheat;
+    margin-left: 20px;
+    font-size: 25px;
+}
